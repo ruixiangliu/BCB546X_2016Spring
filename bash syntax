@@ -1,0 +1,37 @@
+Arguments    Shell parameters
+Array variables Array Variables
+Variables     Local and Environment variables
+
+functions     Define Function Macros
+Permissions   Allow or Deny actions
+Redirection   Spooling to and from files
+Pipes         Redirect the output from one command as input for another
+Looping constructs:
+
+if-then-else Conditionally perform a command
+for          Expand words, and execute commands
+until        Execute commands (until error)
+while        Execute commands
+The break and continue builtins can be used to control loop execution.
+Evaluating expressions:
+
+Arithmetic expressions
+Using brackets to Group and expand expressions
+Conditional Execution command-A AND/OR command-B
+Comparison Operators exists, greater than, equal to
+Shell expansion and Pattern matching (Wildcards)
+Escape Characters, delimiters and Quotes
+File operators -f
+Command Substitution
+Working with the bash Shell:
+
+Run a bash shell script
+vi editor     vi commands
+Here documents and Here Strings
+Keyboard      Cursor control - Cut & paste
+Job Control   Suspend and resume a process
+.bashrc       Startup files (Startup scripts and Aliases)
+.inputrc      Startup files (Set Key bindings and Tab completion)
+Prompt        Prompt variable
+###           Comment / Remark
+BashBangSplat Pronunciation guide for unix
